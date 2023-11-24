@@ -13,7 +13,7 @@ AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is
   
   Canva - Documentation.
 
-⭐ FINDINGS & Insights ⭐
+⭐ FINDINGS & INSIGHTS ⭐
 
 * All the Key Metrics (OT%, IF%, OTIF%) are far behind the target.
 * On average, orders are delayed 0.42 days from the agreed date of delivery.
