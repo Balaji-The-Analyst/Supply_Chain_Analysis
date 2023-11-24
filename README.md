@@ -1,5 +1,5 @@
 # Supply Chain Analysis
-##⭐ Problem Statement ⭐
+## ⭐ Problem Statement ⭐
 
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
 
@@ -7,8 +7,10 @@ AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is
 
   Power BI, SQL and Canva
 
-  Power BI - Data Cleaning,Data Processing, Data Modeling, Measures, visuals and Interactive Dashboard.
-  Sql Server - Data Verification,Subquaries,view,joins,Group BY,Order By,Numeric Fucntion etc.
+  Power BI - Data Cleaning, Data Processing, Data Modeling, Measures, visuals and Interactive Dashboard.
+  
+  Sql Server - Data Verification, Subquaries, view, joins, Group BY, Order By, Numeric Fucntions etc.
+  
   Canva - Documentation.
 
 ⭐ FINDINGS & Insights ⭐
