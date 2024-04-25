@@ -61,7 +61,7 @@ AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is
 
 ## Interactive Dashboard 
 
-Novypro: https://www.novypro.com/project/supply-chain-analysis-power-bi-4
+Novypro: https://www.novypro.com/profile_projects/novyprobalajipk?Popup=memberProject&Data=1700732309079x592372203894031600
 
 
 
