@@ -42,7 +42,7 @@ AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is
 
 
 ## TOOLS & APPROACH 
-  Power BI, SQL, and Canva
+  Power BI and Canva
 
   Power BI - Data Cleaning, Data Processing, Data Modeling, Measures, visuals and Interactive Dashboard.
   
