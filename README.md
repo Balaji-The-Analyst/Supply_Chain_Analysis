@@ -1,7 +1,7 @@
 # Supply Chain Analysis
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers on a daily basis so that they can respond swiftly to these issues.
 
-## Here are the questions I was interested in answering:
+## Here are the questions I was interested in answering
 1) What are the target values for OT%, IF%, and OTIF%, and how do our current metrics compare to these targets?
 2) How many days, on average, are orders delayed from the agreed delivery date, and what factors contribute most to these delays?
 3) Which customers (e.g., Lotus Mart, Coolblue, Acclaimed Stores) experience the highest number of delayed orders, and what are the common reasons for these delays?
