@@ -1,20 +1,20 @@
 
 # SUPPLY CHAIN ANALYSIS
-**Session** 
+**Sessions** 
 
-    1.Project Details
+    1. Project Details
         - Domain short description
         - Problem
         - Goal
         - Dataset Information
-    2.Data work (What I  did)
+    2. Data work (What I  did)
         - Data collection
         - Data Cleaning
         - Data Modeling
         - Data Analysis & Visualization
-    3.Power BI Dashboard
+    3. Power BI Dashboard
         - Dashboard 
-        - InterActive Dashboard Link
+        - Interactive Dashboard Link
 ## PROJECT DETAILS 
 **1.Domain (Hospitality)**
 
